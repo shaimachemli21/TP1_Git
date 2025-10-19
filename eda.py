@@ -1,1 +1,2 @@
-print(df.head(5))  # modification dans main
+print(df.head(10))  # modification dans experiment-eda
+
